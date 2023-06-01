@@ -1,0 +1,69 @@
+---
+title: "Wage Setting and Passthrough: The Role of ..."
+subtitle: by Chan, Mattana, Salgado, and Xu (2023)
+format:
+  clean-revealjs:
+    self-contained: true
+author:
+  - name: Hans Martinez
+    # orcid: 0000-0001-7883-8573
+    email: Discussant
+    affiliations: Western University
+date: last-modified
+bibliography: refs.bib
+---
+
+## Overview
+
+**Question:** How do firms' productivity shocks affect wages?
+
+**Main finding:** An 1% increase in productivity leads to a 0.4% increase in wages
+
+**How:** Developing a dynamic model of firms and wage setting in imperfect labor markets and using administrative Danish data
+
+**Why:** In the presence of labor market frictions such as market power and adjustment costs, firms set wages below the marginal product of labor (markdowns). Positive idiosyncratic productivity shocks increase the marginal product of labor and translate to markdown reductions (passthrough).
+
+## Impressions
+
+- Great paper: interesting question, concise model, and strong empirical strategy
+
+- Relevant: recent general productivity shock due to breakthrough in AI
+
+
+## General comments
+
+- No policy discussion or recommendation
+  - On one hand, market frictions lead to markdowns and productivity passthrough to wages
+  - On the other, market frictions reduce worker exposure to firm risk
+
+- No warning about extrapolation of results
+  - The Danish labor market is particular (Sec 3.2: lax employment protection, *flexicurity*)
+  - What could we expect about the Canadian or US market
+
+## Main comments
+
+- The link between productivity and wages depends in part on the marginal productivity of labor
+  - The underlying assumption is that labor is increasing in productivity
+  - However current framework assumes Hicks-Neutral productivity
+  - Why keep Hicks-Neutral productivity? (JMP UT-Austin [Pan, 2022](https://drive.google.com/file/d/1T0mv9hZZWeTiwsH4jV2jeQZybTelN29j/view))
+
+## Main comments
+
+- Current framework: Dynamic labor, flexible intermediates, and first-order Markov productivity
+  - Firms' labor choices in the previous period restrict labor choices in the current period after productivity is realized
+  - This might imply that only the most flexible labor is adjusting (unskilled labor)
+
+## Minor comments
+
+- If firms set wages
+  - Why does the analysis start from the FOC wrt labor
+  - There is no FOC wrt wages
+
+- Passthrough is defined as the elasticity of wages wrt to productivity: 
+  - Why take total derivative wrt to $\eta_{jt}$ and not wrt $\omega_{jt}$? 
+  - firms know $E[\omega_{jt}| \omega_{jt-1}]=h(\omega_{jt-1})$ and $E[\eta_{jt}|\omega_{jt-1}]=0$
+
+# {.center}
+
+[hansmartinez.com](https://hansmartinez.com)
+
